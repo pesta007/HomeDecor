@@ -1,4 +1,4 @@
-package com.pesta.login.presentation.login.components
+package com.pesta.login.presentation.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
