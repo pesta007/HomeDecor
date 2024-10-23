@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Home Decor"
 include(":app")
+include(":features:login")
+include(":features:common")
